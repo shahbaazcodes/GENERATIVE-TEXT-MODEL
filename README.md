@@ -20,6 +20,8 @@ cd text-generation-gpt2
 ```
 pip install -r requirements.txt
 
+```
+
 
 3. Run the notebook:
 ```
