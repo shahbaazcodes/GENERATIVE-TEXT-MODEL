@@ -20,12 +20,9 @@ cd text-generation-gpt2
 ```
 pip install -r requirements.txt
 
-```
-
 
 3. Run the notebook:
-```
-jupyter notebook text_generation_gpt2.ipynb
+```jupyter notebook text_generation_gpt2.ipynb
 ```
 
 🧠 How It Works
